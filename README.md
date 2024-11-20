@@ -60,26 +60,23 @@ must retain the heat for longer time.
 
 ## Technologies Used
 
-Cold storage unit development 
-Combination of multiple material with less R value.
- Hardware components.
- • Temperature and humidity sensors(DHT11)
- • AURDINO microcontroller
- • LCDdisplay 
-• Battery 
-• Cooling system (mini air compressor)
- Software implementation
- •Microcontroller Programming: Sensor data reading and 
-processing
- • LCD display interface
- • Control algorithms for cooling system
- Control logic 
-• If temperature>threshold                                              
-❖Activate cooling system
- ❖Increase fanspeed
- • If temperature = threshold
- ❖Automatic Switch off compressor 
-
+Hardware Components:
+Temperature and Humidity Sensors: DHT11
+Microcontroller: Arduino
+LCD Display
+Battery
+Cooling System: Mini air compressor
+Software Implementation:
+Microcontroller Programming:
+Sensor data reading and processing
+LCD display interface
+Control Algorithms for Cooling System:
+Control Logic:
+If temperature > threshold:
+Activate cooling system
+Increase fan speed
+If temperature = threshold:
+Automatically switch off compressor
 ---
 
 ## Getting Started
