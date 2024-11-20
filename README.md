@@ -22,7 +22,7 @@ storage facilities.
 
 ## Team Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** [SMART FROST]
 
 ### Team Members
 
