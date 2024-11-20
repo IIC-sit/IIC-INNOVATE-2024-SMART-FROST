@@ -30,16 +30,18 @@ Team Member 1:
 
 Name: Akshaykumar Prabhayya Lutimath
 USN: 1si22ec002
-Team Member 2:
 
+
+Team Member 2:
 Name: Arvind Shankrappa Yakkundi
 USN: 1si22ec009
-Team Member 3:
 
+
+Team Member 3:
 Name: Kowshik P
 USN: 1si22ec048
-Team Member 4:
 
+Team Member 4:
 Name: Mahesha H G
 USN: 1si22ec055
 
