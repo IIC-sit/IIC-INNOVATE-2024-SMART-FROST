@@ -84,8 +84,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[your-username]/[
-   #include <DHT.h>
+#include <DHT.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #define DHTPIN 2
@@ -126,4 +125,4 @@ lcd.print("Threshold: ");
 lcd.print(threshold);
 lcd.print("C");
 delay(1000);
-}].git
+}
