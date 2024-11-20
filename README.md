@@ -7,7 +7,16 @@ Welcome to the repository for the hackathon organized by **Innovation Council** 
 
 ### Problem Statement
 
-The goal of this hackathon is to foster creativity, teamwork, and innovation among participants. We will work on solving challenges related to **[specific domain or technology]**, with the objective of **[specific problem you are addressing]**.
+Small-scale farmers and merchants in developing regions suffer significant financial 
+losses due to the lack of affordable cold storage facilities for their perishable produce. 
+Conventional cold storage solutions are too expensive and require reliable electricity, 
+making them inaccessible to rural farmers. With high post-harvest losses impacting both 
+farmer income and food security, there is an urgent need for a low-cost cold storage 
+solution that can operate with minimal electricity, be built from locally available 
+materials, and effectively maintain lower temperatures to extend produce shelf life. 
+Additionally, incorporating IoT technology for real-time monitoring and control of 
+temperature and humidity can further enhance the efficiency and reliability of these 
+storage facilities.
 
 ---
 
@@ -17,33 +26,54 @@ The goal of this hackathon is to foster creativity, teamwork, and innovation amo
 
 ### Team Members
 
-1. **Member 1**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+Team Member 1: 
+● Name: Akshaykumar Prabhayya Lutimath 
+● USN:1si22ec002 
+Team Member 2: 
+● Name: Arvind Shankrappa yakkundi 
+● USN:1si22ec009 
+Team Member 3: 
+● Name:Kowshik P 
+● USN:1si22ec048 
+Team Member 4: 
+● Name: Mahesha H G  
+● USN:1si22ec055 
 
-2. **Member 2**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
-
-3. **Member 3**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
-
-4. **Member 4**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
 
 ---
 
 ## Project Description
 
-[Provide a brief description of your project, the problem you are solving, and your approach.]
-
----
+ • To develop a low cost and a portable cold storage unit using a compressor AC for 
+maximizing the profit of farmers from their produce. 
+• To integrate IoT based sensor network for remote monitoring and controlling of 
+temperature and humidity. 
+• To use LCD interface to display the internal temperature and humidity and automated 
+controlling  
+• Using easily available low-cost materials and combining to make a single material that 
+must retain the heat for longer time.
 
 ## Technologies Used
 
-- [List the technologies used in your project, e.g., Python, JavaScript, TensorFlow, Node.js, etc.]
+Cold storage unit development 
+Combination of multiple material with less R value.
+ Hardware components.
+ • Temperature and humidity sensors(DHT11)
+ • AURDINO microcontroller
+ • LCDdisplay 
+• Battery 
+• Cooling system (mini air compressor)
+ Software implementation
+ •Microcontroller Programming: Sensor data reading and 
+processing
+ • LCD display interface
+ • Control algorithms for cooling system
+ Control logic 
+• If temperature>threshold                                              
+❖Activate cooling system
+ ❖Increase fanspeed
+ • If temperature = threshold
+ ❖Automatic Switch off compressor 
 
 ---
 
